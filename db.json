@@ -1,0 +1,165 @@
+{
+  "signupuser": [
+    {
+      "id": "1",
+      "username": "panku82618",
+      "phone": "panku82618",
+      "email": "panku82618",
+      "password": "Admin1234",
+      "c_password": "Admin1234"
+    },
+    {
+      "username": "ashil",
+      "phone": "ashil",
+      "email": "ashil",
+      "password": "Ashil1234",
+      "c_password": "Ashil1234",
+      "id": "2"
+    },
+    {
+      "username": "pankaj",
+      "phone": "1234456776",
+      "email": "pankaj@gmail.com",
+      "password": "Pankaj1234",
+      "c_password": "Pankaj1234",
+      "id": "3"
+    },
+    {
+      "username": "nikhal",
+      "phone": "1234456776",
+      "email": "nikhal@gmail.com",
+      "password": "Nikhal1234",
+      "c_password": "Nikhal1234",
+      "id": "4"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "getTasklist": [
+    {
+      "id": "1",
+      "title": "Html && Css Assignment2",
+      "description": "Create login and signup form Withh good design",
+      "status": "Incomplete",
+      "assignby": "Ashil Kumars",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "id": "2",
+      "title": "Angular Assignment",
+      "description": "Create Table using matrial laibry",
+      "status": "Complete",
+      "assignby": "Ashil1",
+      "assignto": "Akshar Sharma"
+    },
+    {
+      "id": "3",
+      "title": "Test Assignment",
+      "description": "Create small and basic app with all basic thig",
+      "status": "Incomplete",
+      "assignby": "Parshant Dutta",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "id": "4",
+      "title": "Html && Css Assignment2",
+      "description": "Create login and signup form Withh good design",
+      "status": "Incomplete",
+      "assignby": "Ashil Kumar",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "id": "5",
+      "title": "Angular Assignment",
+      "description": "Create Table using matrial laibry",
+      "status": "Complete",
+      "assignby": "Ashil1",
+      "assignto": "Akshar Sharma"
+    },
+    {
+      "id": "6",
+      "title": "Test Assignment",
+      "description": "Create small and basic app with all basic thig",
+      "status": "Complete",
+      "assignby": "Parshant Dutta",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "id": "7",
+      "title": "Html && Css Assignment2",
+      "description": "Create login and signup form Withh good design",
+      "status": "Incomplete",
+      "assignby": "Ashil Kumar",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "id": "8",
+      "title": "Angular Assignment",
+      "description": "Create Table using matrial laibry",
+      "status": "Complete",
+      "assignby": "Ashil1",
+      "assignto": "Akshar Sharma"
+    },
+    {
+      "id": "9",
+      "title": "Test Assignment",
+      "description": "Create small and basic app with all basic thig",
+      "status": "Complete",
+      "assignby": "Parshant Dutta",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "id": "10",
+      "title": "Html && Css Assignment2",
+      "description": "Create login and signup form Withh good design",
+      "status": "Incomplete",
+      "assignby": "Ashil Kumar",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "id": "12",
+      "title": "Test Assignment",
+      "description": "Create small and basic app with all basic thig",
+      "status": "Complete",
+      "assignby": "Parshant Dutta",
+      "assignto": "Pankaj Sharma"
+    },
+    {
+      "title": "html & css",
+      "assignby": "ashil kumar",
+      "assignto": "anand kumar",
+      "description": "create html form with css good design",
+      "status": "Complete",
+      "id": "13"
+    },
+    {
+      "id": "824e",
+      "title": "q",
+      "assignby": "q",
+      "assignto": "e",
+      "description": "wew",
+      "status": "Complete"
+    },
+    {
+      "id": "66d2",
+      "title": "re",
+      "assignby": "rrrrr",
+      "assignto": "rrrrrr",
+      "description": "rdsfs",
+      "status": "Complete"
+    },
+    {
+      "id": "41cb",
+      "title": "pankaj sharma",
+      "assignby": "abc",
+      "assignto": "xyz",
+      "description": "<b>hlw</b>",
+      "status": "Complete"
+    }
+  ]
+}
